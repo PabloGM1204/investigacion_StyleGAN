@@ -4,8 +4,9 @@
 
 Ejercicio de clase hecho para investigar una GAN en específico, en mi caso he investigado la GAN **StyleGAN** ya que es la que usa la famosa página de **ThisPersonDoesNotExist.com**, he creado dos cuadernos Jupyter los cuales uno es de la parte de información de la GAN y el otro cuaderno es el ejemplo práctico:
 
-Información: [informacion.ipynb]()
-Práctica: [practica.ipynb]()
+* Información: [informacion.ipynb]()
+
+* Práctica: [practica.ipynb]()
 
 ## Webgrafía
 
