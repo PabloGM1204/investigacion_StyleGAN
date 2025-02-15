@@ -8,6 +8,12 @@ Ejercicio de clase hecho para investigar una GAN en específico, en mi caso he i
 
 * Práctica: [practica.ipynb]()
 
+## Ejemplo práctico
+
+He usado **Google Colab** y tambien el modelo **StyleGAN2-ADA** ya que con el portatil de clase no tiene grandes capacidades por lo que he decido asegurar y usar un modelo ya creado para poder generar imágenes de caras de personas aleatoriamente al estilo de **ThisPersonDoesNotExist** ademas de con una gran calidad de imagen.
+
+![Ejemplo](img_cuaderno/ejemplo.jpg)
+
 ## Webgrafía
 
 1. [Paper original de StyleGAN](https://arxiv.org/abs/1812.04948)
